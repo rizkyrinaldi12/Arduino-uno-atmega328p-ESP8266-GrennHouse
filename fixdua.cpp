@@ -5,7 +5,7 @@
 #include <MySQL_Connection.h>
 #include <MySQL_Cursor.h>
 
-#define HOST "findkost.000webhostapp.com"
+#define HOST "YOURWEBSITE.COM"
 const char *ssid = "kakaka"; 
 const char *password = "00000000";
 
